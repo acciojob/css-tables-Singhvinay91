@@ -4,9 +4,6 @@ th ,td{
 	border-radius:5px;
 	padding:0.5rem;
 }
-th {
-  background-color: #eaeaea;
-}
 
 tr:nth-child(odd) {
   background-color: #f2f2f2;
